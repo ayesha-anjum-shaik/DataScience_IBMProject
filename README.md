@@ -1,6 +1,6 @@
 # IBM DataScience Professional Certification, Coursera
 
-##Course Certificates Completed
+## Course Certificates Completed
 - Data Visualization with Python
 - Machine Learning with Python
 - Applied Data Science Capstone
